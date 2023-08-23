@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating React project since 2022<br>📚 I'm currently learning nextjs<br>🎯 Goals: Fullstack<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating React project since 2022<br>📚 I'm currently learning nextjs<br>🎯 Goals: Fullstack developer<br>🎲 Fun fact: ...</p>
 
 ###
 
